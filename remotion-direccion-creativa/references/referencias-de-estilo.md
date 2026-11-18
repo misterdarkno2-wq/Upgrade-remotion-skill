@@ -1,0 +1,12 @@
+# Cómo trabajar con las referencias de video
+
+Cuando el usuario indique una carpeta, usa los archivos de esa carpeta como el lote del encargo. Identifica qué aporta cada clip, por ejemplo una toma de producto, una idea de montaje o un recurso gráfico. Revisa el inicio, el cierre y los cambios relevantes. Para evaluar ritmo, transición o sonido, reproduce el tramo correspondiente a velocidad real cuando sea posible. Si solo puedes inspeccionar fotogramas, extrae criterios visuales e indica qué quedó por comprobar. Agrupa las tomas repetidas del mismo flujo para que la repetición del archivo no se confunda con una preferencia de estilo.
+
+Elige los recursos que sirvan a la idea del video. Un clip puede aportar cómo encuadrar el gesto y otro cómo introducir una palabra, aunque tengan estilos distintos. Excluye del análisis creativo los cierres que añade la plataforma, las marcas de agua y los controles del reproductor. Registra las pautas reutilizables como texto para que se puedan aplicar en otro proyecto con su propio material.
+
+## Patrones observados en las referencias iniciales
+
+- **Demo de producto.** Las capturas muestran recorridos completos, desde entrar o elegir una opción hasta ver el cambio en pantalla. Selecciona el tramo que muestra el gesto y su consecuencia. Si hace falta un acercamiento, mantén visibles tanto el control como la respuesta de la interfaz. Reduce las esperas y conserva el tiempo necesario para reconocer el resultado.
+- **Tipografía que lleva la idea.** Varias piezas usan palabras grandes, contraste fuerte y cambios de escala para dirigir la atención. Da protagonismo a la palabra que cambia el sentido de la escena y mantén legibles el resto del texto y los subtítulos. Usa textura, perspectiva o color cuando ayuden a enfatizar ese momento.
+- **Un elemento protagonista por plano.** Algunos clips ponen un objeto aislado sobre un fondo oscuro y otros usan un fondo claro con pocas formas y colores. Aprovecha el espacio alrededor del elemento y el contraste con el fondo para que la vista lo encuentre rápido. Si el montaje pide continuidad, puedes conservar su posición o dirección al cambiar de plano.
+- **Explicación con presencia humana.** Una referencia alterna al presentador, ejemplos animados y una demostración en pantalla. Cuando tengas ese material, usa la persona para presentar una idea, el gráfico para hacerla visible y la captura para enseñar el resultado.

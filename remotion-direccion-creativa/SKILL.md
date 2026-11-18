@@ -14,6 +14,7 @@ Si hay una pieza previa, reproduce el tramo afectado y ubica el plano, gesto o f
 ## Encuentra el punto de vista
 
 - Revisa el material y las referencias antes de definir el diseño. Extrae rasgos observables que sirvan al encargo, como el momento del corte, la distancia de cámara, el uso del sonido ambiente o la relación entre texto e imagen. Adáptalos al contenido y a la identidad del usuario.
+- Si el usuario entrega una carpeta de referencias o pide aplicar los patrones de su colección, usa la [guía de referencias de estilo](references/referencias-de-estilo.md). Cuando pida usar todos los videos, revisa cada archivo reproducible y elige las técnicas que encajen con el encargo.
 - Elige qué debe entender, sentir o poder hacer el público al final. Construye el comienzo alrededor de un gesto, una frase, una imagen o una pregunta que pertenezca a ese tema. Si al cambiar de producto, personaje o historia el inicio funciona igual, busca un detalle más propio en el material.
 
 ## Monta alrededor de lo que ocurre
