@@ -1,6 +1,6 @@
 ---
 name: remotion-direccion-creativa
-description: Crea, edita o revisa videos en Remotion. Usa referencias de estilo y bibliotecas de efectos sonoros para mejorar el montaje, la legibilidad, la animación y la sincronía.
+description: Crea, edita o revisa videos en Remotion. Adapta referencias de estilo y efectos visuales como carrusel, órbita y cristal. Usa bibliotecas de sonido para sincronizar el montaje.
 ---
 
 # Mejora de videos en Remotion
@@ -15,6 +15,7 @@ Si hay una pieza previa, reproduce el tramo afectado y ubica el plano, gesto o f
 
 - Revisa el material y las referencias antes de definir el diseño. Extrae rasgos observables que sirvan al encargo, como el momento del corte, la distancia de cámara, el uso del sonido ambiente o la relación entre texto e imagen. Adáptalos al contenido y a la identidad del usuario.
 - Si el usuario entrega una carpeta de referencias o pide aplicar los patrones de su colección, usa la [guía de referencias de estilo](references/referencias-de-estilo.md). Cuando pida usar todos los videos, revisa cada archivo reproducible y elige las técnicas que encajen con el encargo.
+- Si el usuario menciona `efectosparareplicar.mp4`, pide un efecto de ese catálogo o usa `/efectos` en su mensaje, consulta la [guía de los 19 efectos visuales](references/efectos-visuales.md). Aplica los que pida sobre el material de destino. Si pide una muestra de todos, dales tramos propios para que pueda revisar cada movimiento.
 - Elige qué debe entender, sentir o poder hacer el público al final. Construye el comienzo alrededor de un gesto, una frase, una imagen o una pregunta que pertenezca a ese tema. Si al cambiar de producto, personaje o historia el inicio funciona igual, busca un detalle más propio en el material.
 
 ## Monta alrededor de lo que ocurre
