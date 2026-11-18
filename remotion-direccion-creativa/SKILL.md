@@ -1,6 +1,6 @@
 ---
 name: remotion-direccion-creativa
-description: Crea, edita o revisa videos en Remotion. Usa referencias de estilo y mejora el montaje, el encuadre, la legibilidad, la animación y la sincronía con el audio.
+description: Crea, edita o revisa videos en Remotion. Usa referencias de estilo y bibliotecas de efectos sonoros para mejorar el montaje, la legibilidad, la animación y la sincronía.
 ---
 
 # Mejora de videos en Remotion
@@ -29,6 +29,7 @@ Si hay una pieza previa, reproduce el tramo afectado y ubica el plano, gesto o f
 - Si hay un salto, un hueco o un corte a destiempo, inspecciona el tramo fotograma a fotograma. Comprueba los límites de las secuencias y el FPS de la composición. Si una animación depende del reloj del navegador, ajústala a los fotogramas de la composición para que responda al mover el cursor de Studio.
 - Si un texto se corta, una capa tapa la acción o un recurso aparece tarde, revisa el encuadre al tamaño de destino, el orden de capas y el primer fotograma que usa la fuente o el medio afectado.
 - Si una acción y su sonido llegan en momentos distintos, alinea sus entradas en la línea de tiempo. Si cuesta entender la voz, ajusta la música en el pasaje donde coinciden y escucha de nuevo la mezcla.
+- Si el usuario aporta una biblioteca de efectos o pide diseño sonoro, consulta la [guía de efectos de sonido](references/efectos-de-sonido.md) para buscar candidatos, colocarlos y revisar la mezcla.
 
 ## Comprueba la mejora
 

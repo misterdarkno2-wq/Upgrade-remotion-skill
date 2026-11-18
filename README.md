@@ -31,6 +31,10 @@ Abre tu proyecto de Remotion en Codex e invoca la skill con `$remotion-direccion
 
 Indica la ruta de tu carpeta de referencias en el mensaje. La skill revisa cada video reproducible cuando le pides usar todos. Puedes consultar cómo aprovecha las grabaciones de producto, la tipografía animada y los ejemplos con presentador en la [guía de referencias](remotion-direccion-creativa/references/referencias-de-estilo.md).
 
+## Usar tus efectos de sonido
+
+Indica las carpetas de tu biblioteca y las acciones que quieres enfatizar. La skill puede buscar en las subcarpetas con un script de Python, preseleccionar efectos y colocarlos en la línea de tiempo. Los paquetes de la skill contienen la guía y el buscador. Dale al entorno de edición acceso a tus archivos de audio. [Guía de efectos de sonido](remotion-direccion-creativa/references/efectos-de-sonido.md)
+
 ## Usar en ChatGPT
 
 Si tu cuenta tiene Skills habilitadas, descarga el repositorio, comprime la carpeta `remotion-direccion-creativa` en un ZIP y cárgalo desde **Plugins → Skills → Crear → Subir desde tu computadora**. [Ayuda de ChatGPT](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
