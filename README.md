@@ -1,6 +1,6 @@
 # Mejora de videos en Remotion
 
-`$remotion-direccion-creativa` es una skill para Codex que ayuda a crear, editar y revisar videos en Remotion. Convierte el material del proyecto en decisiones concretas de encuadre, montaje y sonido. En una composición existente, localiza el problema en un plano o fotograma y compara el tramo original con el editado en Remotion Studio cuando está disponible.
+`remotion-direccion-creativa` es una skill para Codex y Claude que ayuda a crear, editar y revisar videos en Remotion. Convierte el material del proyecto en decisiones concretas de encuadre, montaje y sonido. En una composición existente, localiza el problema en un plano o fotograma y compara el tramo original con el editado en Remotion Studio cuando está disponible.
 
 ## Qué puedes hacer con la skill
 
@@ -19,9 +19,15 @@ Usa $skill-installer para instalar la skill de https://github.com/misterdarkno2-
 
 Abre tu proyecto de Remotion en Codex e invoca la skill con `$remotion-direccion-creativa`. Para hacer cambios y comprobarlos en Studio, Codex necesita acceso al proyecto.
 
+## Instalar en Claude
+
+**Claude Code.** Copia la carpeta `remotion-direccion-creativa` a `.claude/skills/` dentro de tu proyecto. Para usarla en todos tus proyectos locales, cópiala a `~/.claude/skills/`. Abre Claude Code desde tu proyecto de Remotion y usa `/remotion-direccion-creativa`. [Guía de Claude Code](https://code.claude.com/docs/en/skills#choose-where-skills-load)
+
+**Claude web.** Verifica que esté habilitada la ejecución de código. Comprime la carpeta `remotion-direccion-creativa` para que sea la carpeta raíz del ZIP. En Claude, ve a **Customize → Skills**, pulsa **+** y selecciona **Create skill → Upload a skill**. Activa la skill y menciona su nombre al pedir una revisión. Para aplicar cambios o comprobarlos en Studio, el entorno necesita acceso al proyecto de Remotion. [Ayuda de Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
+
 ## Ejemplo de uso
 
-> Usa `$remotion-direccion-creativa` para pulir esta demo vertical. Revisa todos los videos de mi carpeta de referencias y usa las técnicas que encajen. Conserva el guion aprobado, haz que los cortes sigan las acciones y comprueba en Studio que se vea bien el resultado de cada interacción.
+> Usa la skill remotion-direccion-creativa para pulir esta demo vertical. Revisa todos los videos de mi carpeta de referencias y usa las técnicas que encajen. Conserva el guion aprobado, haz que los cortes sigan las acciones y comprueba en Studio que se vea bien el resultado de cada interacción.
 
 Indica la ruta de tu carpeta de referencias en el mensaje. La skill revisa cada video reproducible cuando le pides usar todos. Puedes consultar cómo aprovecha las grabaciones de producto, la tipografía animada y los ejemplos con presentador en la [guía de referencias](remotion-direccion-creativa/references/referencias-de-estilo.md).
 

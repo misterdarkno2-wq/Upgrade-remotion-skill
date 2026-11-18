@@ -1,11 +1,11 @@
 ---
 name: remotion-direccion-creativa
-description: Mejora el resultado de videos en Remotion al crear, editar o revisar composiciones. Úsala para darles una voz propia y un montaje más natural, o para pulir problemas de ritmo, encuadre, legibilidad, animación y sincronía.
+description: Crea, edita o revisa videos en Remotion. Usa referencias de estilo y mejora el montaje, el encuadre, la legibilidad, la animación y la sincronía con el audio.
 ---
 
 # Mejora de videos en Remotion
 
-Convierte el propósito, el público y el material de cada video en decisiones de guion, montaje y puesta en pantalla. Para implementar o previsualizar la composición, usa las guías de Remotion pertinentes al proyecto.
+Convierte el propósito, el público y el material de cada video en decisiones de guion, montaje y puesta en pantalla. Para implementar o previsualizar la composición, usa los comandos y convenciones del proyecto y las guías de Remotion que tengas disponibles.
 
 ## Parte de la composición actual
 
