@@ -4,9 +4,9 @@
 
 ## Qué puedes hacer con la skill
 
-- Darle al video una apertura basada en un gesto, una pregunta o un detalle propio del tema.
+- Partir de una idea breve y convertirla en una apertura, una escena principal y un cierre diseñados con tus recursos.
 - Ajustar los cortes a lo que ocurre en pantalla y dar tiempo para leer el texto o reconocer el resultado de una acción.
-- Corregir saltos de animación, texto cortado y problemas de sincronía entre imagen y sonido.
+- Revisar el montaje y corregir problemas de lectura, continuidad y sincronía. La herramienta local de revisión puede sacar una hoja de fotogramas y comprobar el archivo exportado. [Revisión y entrega](remotion-direccion-creativa/references/revision-y-entrega.md)
 - Pedir una revisión con observaciones por momento o aplicar los ajustes directamente en el proyecto.
 - Adaptar la edición a la red elegida y recibir títulos y texto de publicación después del video final.
 
@@ -26,7 +26,9 @@ Abre tu proyecto de Remotion en Codex e invoca la skill con `$remotion-direccion
 
 **Claude web.** Verifica que esté habilitada la ejecución de código. Comprime la carpeta `remotion-direccion-creativa` para que sea la carpeta raíz del ZIP. En Claude, ve a **Customize → Skills**, pulsa **+** y selecciona **Create skill → Upload a skill**. Activa la skill y menciona su nombre al pedir una revisión. Para aplicar cambios o comprobarlos en Studio, el entorno necesita acceso al proyecto de Remotion. [Ayuda de Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
 
-## Ejemplo de uso
+## Ejemplos de uso
+
+> Usa $remotion-direccion-creativa para crear un Reel con estos archivos y entregar el MP4. Toma tú las decisiones creativas.
 
 > Usa la skill remotion-direccion-creativa para pulir esta demo vertical. Revisa todos los videos de mi carpeta de referencias y usa las técnicas que encajen. Conserva el guion aprobado, haz que los cortes sigan las acciones y comprueba en Studio que se vea bien el resultado de cada interacción.
 

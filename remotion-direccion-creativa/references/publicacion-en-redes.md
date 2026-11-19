@@ -8,7 +8,7 @@ Recupera del mensaje, de la conversación y del proyecto lo que ya esté decidid
 - ¿A quién va dirigido y qué quieres que haga después de verlo? Por ejemplo, entender cómo funciona el producto, guardarlo, comentar o ir a un enlace que el usuario indique.
 - ¿Hay una duración objetivo o algo que deba aparecer? Pregunta por elementos como un texto de marca, una escena obligatoria o subtítulos si afectan la edición.
 
-Mientras llega la respuesta, puedes revisar el material y la composición. Si el usuario delega alguna decisión, elige un punto de partida acorde al objetivo, comunícalo y avanza. Si el encargo consiste en una revisión o una corrección puntual, usa el destino y el formato existentes.
+Mientras llega la respuesta, puedes revisar el material y la composición. Si el usuario delega alguna decisión, elige un punto de partida acorde al objetivo, comunícalo y avanza. Resuelve los detalles de estilo con la marca, la voz y los recursos del proyecto. En una revisión o corrección puntual, usa el destino y el formato existentes.
 
 ## Adapta el montaje
 
@@ -21,7 +21,7 @@ Respeta el formato acordado. Para Reels, TikTok vertical y Shorts verticales, un
 | YouTube Shorts | Elige un inicio que cumpla pronto la promesa del título. Identifica un fotograma legible para sugerirlo como portada. |
 | YouTube horizontal | Aprovecha el ancho para mostrar contexto o una interfaz con detalle. Alinea la apertura con lo que promete el título y reserva espacio para rótulos legibles. |
 
-Si una edición sirve para varias redes, reutiliza la composición base. Cuando entregues variantes, reencuadra los planos y recoloca subtítulos y rótulos para cada formato. Comprueba la lectura en pantalla pequeña y la posición de la llamada a la acción frente a los controles de cada red. Antes de entregar, revisa que el archivo exportado tenga las dimensiones, la duración y las pistas acordadas. Puedes usar `ffprobe` para comprobar esos datos y Studio o un visor para revisar el inicio, los subtítulos y el cierre.
+Si una edición sirve para varias redes, reutiliza la composición base. Cuando entregues variantes, reencuadra los planos y recoloca subtítulos y rótulos para cada formato. Comprueba la lectura en pantalla pequeña y la posición de la llamada a la acción frente a los controles de cada red. [Revisión del archivo final](revision-y-entrega.md)
 
 ## Entrega el video y el texto de publicación
 
