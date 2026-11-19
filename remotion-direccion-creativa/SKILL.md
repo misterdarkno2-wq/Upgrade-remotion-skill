@@ -1,11 +1,15 @@
 ---
 name: remotion-direccion-creativa
-description: Crea, edita o revisa videos en Remotion. Adapta referencias de estilo y efectos visuales como carrusel, órbita y cristal. Usa bibliotecas de sonido para sincronizar el montaje.
+description: Crea, edita o revisa videos en Remotion. Adapta referencias de estilo, efectos visuales como carrusel, órbita y cristal, y bibliotecas de sonido. Ajusta el montaje para Reels, TikTok, YouTube y otras redes. Después de entregar el video, propone títulos y texto para publicarlo.
 ---
 
 # Mejora de videos en Remotion
 
 Convierte el propósito, el público y el material de cada video en decisiones de guion, montaje y puesta en pantalla. Para implementar o previsualizar la composición, usa los comandos y convenciones del proyecto y las guías de Remotion que tengas disponibles.
+
+## Define el destino
+
+Si vas a crear un video y falta el destino, pregunta dónde se verá. Para crear o adaptar una pieza para redes, usa la [guía de edición y publicación](references/publicacion-en-redes.md). Pregunta solo por los datos pendientes que cambian el montaje o la entrega. En revisiones y correcciones puntuales, parte del formato existente.
 
 ## Parte de la composición actual
 
@@ -36,3 +40,5 @@ Si hay una pieza previa, reproduce el tramo afectado y ubica el plano, gesto o f
 ## Comprueba la mejora
 
 Si el encargo incluye edición, corrige primero el problema de mayor impacto. Compara el tramo original y el ajustado en Studio a velocidad real y al tamaño de destino cuando sea posible. Si cambiaste tiempos, comprueba los empalmes cercanos y la duración final. En un video nuevo, prioriza la apertura, el momento que demuestra la idea y el cierre. Si solo te piden revisar, señala momentos concretos y el ajuste que propones. Si falta una previsualización funcional, comprueba lo posible con los recursos, los fotogramas o la línea de tiempo disponibles e indica qué quedó pendiente.
+
+En una entrega para redes, enlaza primero el video final verificado. Después incluye los títulos y el texto de publicación adaptados a cada destino.

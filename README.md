@@ -8,6 +8,7 @@
 - Ajustar los cortes a lo que ocurre en pantalla y dar tiempo para leer el texto o reconocer el resultado de una acción.
 - Corregir saltos de animación, texto cortado y problemas de sincronía entre imagen y sonido.
 - Pedir una revisión con observaciones por momento o aplicar los ajustes directamente en el proyecto.
+- Adaptar la edición a la red elegida y recibir títulos y texto de publicación después del video final.
 
 ## Instalar en Codex
 
@@ -30,6 +31,8 @@ Abre tu proyecto de Remotion en Codex e invoca la skill con `$remotion-direccion
 > Usa la skill remotion-direccion-creativa para pulir esta demo vertical. Revisa todos los videos de mi carpeta de referencias y usa las técnicas que encajen. Conserva el guion aprobado, haz que los cortes sigan las acciones y comprueba en Studio que se vea bien el resultado de cada interacción.
 
 Indica la ruta de tu carpeta de referencias en el mensaje. La skill revisa cada video reproducible cuando le pides usar todos. Puedes consultar cómo aprovecha las grabaciones de producto, la tipografía animada y los ejemplos con presentador en la [guía de referencias](remotion-direccion-creativa/references/referencias-de-estilo.md).
+
+Si estás preparando un video para redes, la skill te pregunta por el destino, el público o el objetivo cuando esos datos faltan y afectan la edición. Con el video final recibirás un título recomendado, dos alternativas y un texto listo para publicar. [Guía de edición y publicación](remotion-direccion-creativa/references/publicacion-en-redes.md)
 
 ## Usar tus efectos de sonido
 
